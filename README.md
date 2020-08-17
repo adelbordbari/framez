@@ -7,7 +7,7 @@ provide the path to your movie file (.mkv, .mp4, anything) and recieve a collage
 
 ### example
 
---> /path/to/file/2001ASpaceOdyssey.mkv
+> /path/to/file/2001ASpaceOdyssey.mkv
 
 ![](https://raw.githubusercontent.com/blackdead263/framez/master/2001_A_Space_Odyssey.jpg)
 
