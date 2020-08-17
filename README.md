@@ -3,8 +3,6 @@ something small to create abstract artworks (not sure about this one) based on y
 
 provide the path to your movie file (.mkv, .mp4, anything) and recieve a collage of the frames in the movie. an example:
 
-<br />
-
 ### example
 
 > /path/to/file/2001ASpaceOdyssey.mkv
