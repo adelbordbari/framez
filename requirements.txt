@@ -1,0 +1,5 @@
+ffprobe-python==1.0.3
+natsort==7.0.1
+opencv-python==4.3.0.38
+Pillow==7.2.0
+tqdm==4.48.2
