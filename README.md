@@ -10,3 +10,5 @@ provide the path to your movie file (.mkv, .mp4, anything) and recieve a collage
 ![](https://raw.githubusercontent.com/blackdead263/framez/master/2001_A_Space_Odyssey.jpg)
 
 The default frame rate is one image per **5** frames, you can simply change it.
+
+##### currently works on gnu/linux only
